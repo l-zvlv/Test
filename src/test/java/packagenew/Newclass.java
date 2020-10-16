@@ -32,7 +32,7 @@ public class Newclass  {
             
         }
         HashMap<String, String> map = new HashMap<String, String>();
-        map.put("Kate","Bulanova");
+        map.put("НYgjhge","Bulanova");
         map.put("Eliz","Karul");
         map.put("Dan","Luizov");
 
