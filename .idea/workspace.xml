@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1e4a5c1-52a3-4d0f-857e-b18c48f0d910" name="Default Changelist" comment="``">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e1e4a5c1-52a3-4d0f-857e-b18c48f0d910" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,18 +50,33 @@
       <option name="project" value="LOCAL" />
       <updated>1602869486583</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="jj">
+      <created>1602876725823</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602876725823</updated>
+    </task>
+    <task id="LOCAL-00003" summary="jj">
+      <created>1602876945961</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1602876945961</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Inform" />
-    <option name="LAST_COMMIT_MESSAGE" value="Inform" />
+    <MESSAGE value="jj" />
+    <option name="LAST_COMMIT_MESSAGE" value="jj" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="310" y="0" key="CommitChangelistDialog2" timestamp="1602872663251">
+    <state x="310" y="0" key="CommitChangelistDialog2" timestamp="1602876944134">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="310" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1602872663251" />
+    <state x="310" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1602876944134" />
     <state x="561" y="259" key="Github.ShareDialog" timestamp="1602868803264">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -73,9 +85,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="493" y="67" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1602868810204" />
-    <state x="275" y="95" key="Vcs.Push.Dialog.v2" timestamp="1602872672673">
+    <state x="275" y="95" key="Vcs.Push.Dialog.v2" timestamp="1602876950309">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="95" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602872672673" />
+    <state x="275" y="95" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602876950309" />
   </component>
 </project>
